@@ -1,1 +1,1 @@
-A web-based platform for photography services, built using HTML, CSS, and Bootstrap. It features multiple responsive pages that display services, pricing, and contact information, all designed to be fully responsive.
+A web-based platform for photography services, built using HTML, CSS, and Bootstrap. It features multiple responsive pages that display services, pricing, and contact information, all designed to be fully responsive
